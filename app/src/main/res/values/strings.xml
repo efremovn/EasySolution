@@ -1,3 +1,24 @@
 <resources>
     <string name="app_name">Easy Solution</string>
+    <string name="mathematics">Mathematics</string>
+    <string name="physics">Physics</string>
+    <string name="chemestry">Chemestry</string>
+    <string name="coding">Coding</string>
+    <string name="biology">Biology</string>
+
+    <string name="mathematics1">Calculus1</string>
+    <string name="mathematics2">Calculus2</string>
+    <string name="physics1">Thermodynamics</string>
+    <string name="physics2">Optics</string>
+    <string name="LinearAlgebra">Linear Algebra</string>
+    <string name="Calculus1">Calculus 1</string>
+    <string name="Calculus2">Calculus 2</string>
+    <string name="Thermodynamics">Thermodynamics</string>
+    <string name="Optics">Optics</string>
+    <string name="Electricity">Electricity</string>
+    <string name="Organic">Organic</string>
+    <string name="Inorganic">Inorganic</string>
+    <string name="Biochemestry">Biochemestry</string>
+
+
 </resources>
